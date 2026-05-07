@@ -1,0 +1,2 @@
+browser.exe
+msEdge.exe
