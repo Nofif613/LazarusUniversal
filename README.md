@@ -31,8 +31,14 @@ if (hProcess != NULL)
 ## Important:
 **1. Put txt files to folder where will be LazarusUniversal.exe!!!!**
 
+
 **2. The txt files must be save as ANSI or UTF - 16 LE**
-## Put it in file that names FileLaz.txt:
+
+
+**3. GreenList is List which will be freeze and than you can defrost it**
+
+
+## Put it in file that names FileLazUNV.txt:
 
 **1. Name of GreenList.txt**
 
