@@ -64,6 +64,7 @@ if (hProcess != NULL)
 
 
 **To stop/resume GreenList press F9**
-# Lazarus-(Another type of program):
+# LazarusUniversal 
+## Another type of program
 
 https://github.com/Nofif613/Lazarus-
